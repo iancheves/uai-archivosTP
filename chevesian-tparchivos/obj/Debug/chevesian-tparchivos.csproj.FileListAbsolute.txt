@@ -1,0 +1,12 @@
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\bin\Debug\chevesian-tparchivos.exe.config
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\bin\Debug\chevesian-tparchivos.exe
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\bin\Debug\chevesian-tparchivos.pdb
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\obj\Debug\chevesian-tparchivos.csproj.AssemblyReference.cache
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\obj\Debug\chevesian_tparchivos.frmCaja.resources
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\obj\Debug\chevesian_tparchivos.frmMenu.resources
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\obj\Debug\chevesian_tparchivos.Properties.Resources.resources
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\obj\Debug\chevesian-tparchivos.csproj.GenerateResource.cache
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\obj\Debug\chevesian-tparchivos.csproj.CoreCompileInputs.cache
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\obj\Debug\chevesian-tparchivos.exe
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\obj\Debug\chevesian-tparchivos.pdb
+C:\Users\ianch\source\repos\chevesian-tparchivos\chevesian-tparchivos\obj\Debug\chevesian_tparchivos.frmFactura.resources
